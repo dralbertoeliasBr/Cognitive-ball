@@ -1,0 +1,5 @@
+DOI: 10.5281/zenodo.24450888
+Link: https://zenodo.org/records/24450888
+Publicado em: 22/11/2026 (com OK do autor)
+SHA-256 do PDF: 9772c5f85d6b5e0c70ac8e81be5cdb5c1a29c991ad5add337422472585d2239c
+Obs.: os 6 arquivos de cálculo citados no PDF não foram depositados; só os hashes estão no PDF.
